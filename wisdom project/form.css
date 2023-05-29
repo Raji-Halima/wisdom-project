@@ -1,0 +1,28 @@
+*,*::before,*::after{
+ box-sizing:border-box;
+}
+body{
+ padding: 1em;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ font-size: 15px;
+ color: black;
+ background-color:#e3e3e3;
+ text-align: center;
+}
+h4{
+ color:gold;
+ font-family:Arial, Helvetica, sans-serif;
+ font-weight:bolder;
+ font-size: larger;
+}
+div{
+ border: 1px solid gray;
+ background-color: #b9b9b9;
+ text-align: center;
+ padding-bottom: 25px;
+}
+#button{
+ border-radius: 3px;
+ border: 5px double black;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
